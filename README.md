@@ -21,11 +21,3 @@ The Fitness Web Tracker's architecture includes:
 | **Aditya Madhav**                | 2023MT93030  | Design, UI, Database, Backend Guidance, Documentation & Integration  |
 | **Devireddy Vasantha Pallavi**   | 2023MT93025  | Design, Backend, Documentation & Integration                         |
 | **Sweety**                       | 2023MT93028  | Design, UI, Documentation & Integration                              |
-
-
-### Workout History
-![Workout History](images/WorkoutHistory.png)
-
-### Contact
-![Contact](images/Contact.png)
-
