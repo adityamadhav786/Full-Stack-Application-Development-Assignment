@@ -23,30 +23,6 @@ The Fitness Web Tracker's architecture includes:
 | **Sweety**                       | 2023MT93028  | Design, UI, Documentation & Integration                              |
 
 
-
-## Images
-
-### Home Page
-![Home Page](images/HomePage.png)
-
-### User Details
-![User Details](images/UserDetails.png)
-
-### Workout Log
-![Workout Log](images/WorkoutLog.png)
-
-### Food Log
-![Food Log](images/FoodLog.png)
-
-### Water Log
-![Water Log](images/WaterLog.png)
-
-### Calories Burnt
-![Calories Burnt](images/CaloriesBurnt.png)
-
-### Water Intake
-![Water Intake](images/WaterIntake.png)
-
 ### Workout History
 ![Workout History](images/WorkoutHistory.png)
 
