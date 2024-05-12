@@ -53,5 +53,3 @@ The Fitness Web Tracker's architecture includes:
 ### Contact
 ![Contact](images/Contact.png)
 
-### Contact's Reply Mail
-![Contact's Reply](images/ContactReply.png)
