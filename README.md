@@ -16,12 +16,12 @@ The Fitness Web Tracker's architecture includes:
 
 ## Authors
 
-- **Aditya Madhav** (2023MT93030)
-    (Design, UI, Database, Backend Guidance, Documentation & Integration)
-- **Devireddy Vasantha Pallavi** (2023MT93025)
-    (Design, Backend, Documentation & Integration)
-- **Sweety** (2023MT93028)
-    (Design, UI, Documentation & Integration)
+| Name                             | ID           | Contributions                                                        |
+|----------------------------------|--------------|----------------------------------------------------------------------|
+| **Aditya Madhav**                | 2023MT93030  | Design, UI, Database, Backend Guidance, Documentation & Integration  |
+| **Devireddy Vasantha Pallavi**   | 2023MT93025  | Design, Backend, Documentation & Integration                         |
+| **Sweety**                       | 2023MT93028  | Design, UI, Documentation & Integration                              |
+
 
 
 ## Images
